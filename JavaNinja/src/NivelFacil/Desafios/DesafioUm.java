@@ -1,4 +1,4 @@
-package Desafios;
+package NivelFacil.Desafios;
 
 public class DesafioUm {
     public static void main(String[] args) {

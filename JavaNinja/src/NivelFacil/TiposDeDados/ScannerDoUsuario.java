@@ -1,4 +1,4 @@
-package Condicoes;
+package NivelFacil.TiposDeDados;
 
 import java.util.Scanner;
 
