@@ -20,6 +20,7 @@ public class Main {
         int quantidadeDeNinjas = 0;
         int opcao = 0;
 
+
         while (opcao != 4) {
             System.out.println("\n===== Menu Ninja =====");
             System.out.println("1. Cadastrar Ninja");
@@ -81,7 +82,7 @@ public class Main {
                     break;
 
                 case 3:
-                    System.out.println("Opção de atualizar habilidade ainda não implementada.");
+                    System.out.print("Opção ainda não implementada");
                     break;
 
                 case 4:
