@@ -6,5 +6,4 @@ public class Ninja {
     String aldeia;
     int idade;
 
-
 }
